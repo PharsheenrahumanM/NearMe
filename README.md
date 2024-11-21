@@ -174,10 +174,11 @@ kinnimangalam.html
 ```
 ## OUTPUT
 ![Alt text](6.png)
-![Alt text](nearme1.png)
-![Alt text](nearme2.png)
-![Alt text](nearme3.png)
-![Alt text](nearme4.png)
 ![Alt text](5.png)
+![near me 1](https://github.com/user-attachments/assets/7aa92edb-1b98-4f4d-8362-65da4c3aeab5)
+![near me 2](https://github.com/user-attachments/assets/013729c4-6088-4042-ae38-762e58068db7)
+![near me 3](https://github.com/user-attachments/assets/c8626824-e88a-40d8-ac7a-fa104a9d36b8)
+![near me 4](https://github.com/user-attachments/assets/44253c3f-fd01-4bd6-9c3a-c37ba658ea01)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
