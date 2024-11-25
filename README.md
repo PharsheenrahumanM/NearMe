@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 21/11/24
+## Date: 25/11/24
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -173,12 +173,12 @@ kinnimangalam.html
 
 ```
 ## OUTPUT
-![Alt text](6.png)
-![Alt text](5.png)
-![near me 1](https://github.com/user-attachments/assets/7aa92edb-1b98-4f4d-8362-65da4c3aeab5)
-![near me 2](https://github.com/user-attachments/assets/013729c4-6088-4042-ae38-762e58068db7)
-![near me 3](https://github.com/user-attachments/assets/c8626824-e88a-40d8-ac7a-fa104a9d36b8)
-![near me 4](https://github.com/user-attachments/assets/44253c3f-fd01-4bd6-9c3a-c37ba658ea01)
+![near 1](https://github.com/user-attachments/assets/8133abe9-d252-4551-9177-8c126349a343)
+![near 2](https://github.com/user-attachments/assets/41118a3e-45bc-4f1b-9e72-1ea63d4e8825)
+![near 3](https://github.com/user-attachments/assets/751b13e2-4e9e-4357-a304-38c2e8f1197e)
+![near 4](https://github.com/user-attachments/assets/0e3d6791-8dda-444c-8a95-0897507baf8b)
+![near 5](https://github.com/user-attachments/assets/1fb29afc-dd33-4104-bf1e-bb1838a2d13c)
+![near 6](https://github.com/user-attachments/assets/f2014498-fbd4-4008-b2a6-1bb600a9c464)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
